@@ -1,0 +1,8 @@
+
+
+- Vérification des erreurs dans la qst E
+- Rédaction au clair de toutes les questions pour faciliter pour le rapport
+- Visualiser l'évolution des prix et commenter grace à H (c'est juste représenter directement à partir du dataset ?)
+
+- choisir le H en fonction de la rule
+- GARDER LES FONCTIONS WAVELET ?? inutile car on les utilise pas
