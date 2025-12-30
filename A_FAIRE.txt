@@ -1,5 +1,11 @@
 
+QUESTION A
+- faire un plot coverage pour plein de alpha => JE VOIS PAS L INTERET ?
 
-- Vérification des erreurs dans la qst E
-- Rédaction au clair de toutes les questions pour faciliter pour le rapport
+QUESTION E 
 - Visualiser l'évolution des prix et commenter grace à H (c'est juste représenter directement à partir du dataset ?)
+
+- interpréter l'effet de Epps 
+
+QUESTIONS
+- pour la E, d'où vient ne pas prendre des scales avec moins de 20 coef ? pk pas bien conv ? => a compléter sur le doc page 28:29
